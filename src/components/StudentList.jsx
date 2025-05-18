@@ -1,4 +1,5 @@
 import Student from './Student'
+import '../styles/common.scss'
 const students = [
   { name: 'John Doe', age: 20, grade: 'A' },
   { name: 'Jane Smith', age: 22, grade: 'B' },
