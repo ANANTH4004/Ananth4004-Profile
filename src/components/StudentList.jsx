@@ -4,7 +4,7 @@ const students = [
   { name: 'John Doe', age: 20, grade: 'A' },
   { name: 'Jane Smith', age: 22, grade: 'B' },
 ]
-const StidentList = () => {
+const StudentList = () => {
   return (
     <div>
       <h2>Student List</h2>
@@ -20,4 +20,4 @@ const StidentList = () => {
   )
 }
 
-export default StidentList
+export default StudentList
