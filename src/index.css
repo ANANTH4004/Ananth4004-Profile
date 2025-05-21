@@ -70,3 +70,8 @@ button:focus-visible {
 :root {
   background-color: rgb(116, 180, 231);
 }
+
+/* src/index.css or src/App.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
